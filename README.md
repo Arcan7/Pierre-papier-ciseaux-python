@@ -32,6 +32,11 @@ Run dependencies
 ```bash
   python main.py
 ```
+Run 
+
+```bash
+  ./main
+```
 
 Run with cmd
 
